@@ -1,8 +1,4 @@
 body {
-    #display: inline-grid;
-    #display: table-row;
-    #border-left-style: solid;
-    #Border-left-width: 15px;
-    #border-style: none;
-    #justify-content: flex-end;
+    margin: 0;
+    padding: 0;
 }
